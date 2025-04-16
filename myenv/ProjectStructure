@@ -1,0 +1,11 @@
+/my_flask_app  
+    /static             # Folder for static files (CSS, JS, images)
+        /css
+            - file.css  # Your CSS file
+        /js    
+            - file.js   # Your JS file
+    /templates          # Folder for HTML templates
+            - file.html     # Your HTML file
+    - app.py            # Your Flask application
+    -requirements.txt
+    -model.joblib
